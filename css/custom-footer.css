@@ -1,0 +1,53 @@
+
+.social-icon:hover {
+  color: #ff5f13;
+  transition: color 0.3s;
+}
+
+
+
+.footer-button {
+  color: #ff5f13;
+  border: 2px solid #ff5f13;
+  background: transparent;
+  padding: 10px 20px;
+  display: inline-block;
+  transition: all 0.3s;
+  text-align: center;
+  border-radius: 0;
+  text-decoration: none;
+}
+
+.footer-button:hover {
+  background: #ff5f13;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+
+a.social-icon {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+a.social-icon:hover {
+  color: #ff5f13;
+}
+
+
+a.social-icon:hover {
+  color: #ff5f13;
+}
+
+
+.footer-link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
