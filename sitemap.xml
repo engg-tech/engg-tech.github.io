@@ -1,35 +1,38 @@
-<url>
-  <loc>https://engg-tech.com/</loc>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/about-us/</loc>
-  <priority>0.8</priority>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/services/</loc>
-  <priority>0.8</priority>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/projects/</loc>
-  <priority>0.8</priority>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/blog-medium/</loc>
-  <priority>0.5</priority>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/blog-blogger/</loc>
-  <priority>0.5</priority>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>https://engg-tech.com/blog-wordpress/</loc>
-  <priority>0.5</priority>
-  <changefreq>monthly</changefreq>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://engg-tech.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/about-us/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/services/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/projects/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/blog-medium/</loc>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/blog-blogger/</loc>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://engg-tech.com/blog-wordpress/</loc>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
