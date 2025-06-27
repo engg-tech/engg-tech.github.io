@@ -21,6 +21,11 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://engg-tech.com/contact-us/</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://engg-tech.com/blog-medium/</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
