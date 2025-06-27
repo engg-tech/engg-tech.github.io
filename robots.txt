@@ -57,9 +57,9 @@ Disallow: /
 User-agent: PetalBot
 Disallow: /
 
-# 🧭 Sitemap (update if needed)
+# 🧭 Sitemap
 Sitemap: https://engg-tech.com/sitemap.xml
 
-# 🧠 Allow all others by default
+# ✅ Default rule — allow everyone else
 User-agent: *
 Disallow:
