@@ -10855,7 +10855,7 @@ html {
 }
 
 header.masthead {
-  background: url('../assets/img/engg-tech-fire-protection-banner.gif') no-repeat center center;
+  background: url('https://engg-tech.com//assets/img/engg-tech-fire-protection-banner.gif') no-repeat center center;
   background-size: cover;
   min-height: 100vh;
   height: 100%;
