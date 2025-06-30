@@ -10948,11 +10948,18 @@ a.social-icon:hover {
   text-decoration: underline;
 }
 
-
-
 .unstyled-link {
   text-decoration: none;
   color: inherit;
 }
 
+header.masthead .masthead-content {
+  min-height: 300px; /* Prevent CLS without affecting full-header background */
+  padding: 1.5rem 1rem; /* Safe padding */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 
