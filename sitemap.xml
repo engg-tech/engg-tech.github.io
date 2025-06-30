@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main site pages -->
   <url>
     <loc>https://engg-tech.com/</loc>
     <priority>1.0</priority>
@@ -25,6 +27,8 @@
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
+
+  <!-- Internal blog redirect pages -->
   <url>
     <loc>https://engg-tech.com/blog-medium/</loc>
     <priority>0.5</priority>
@@ -40,4 +44,29 @@
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
+
+  <!-- External blogs -->
+  <url>
+    <loc>https://medium.com/@enggtechofficial</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://enggtechofficial.blogspot.com</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://enggtechofficial.wordpress.com</loc>
+    <priority>0.4</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Google Sites company profile -->
+  <url>
+    <loc>https://sites.google.com/view/enggtechofficial/home</loc>
+    <priority>0.3</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>
