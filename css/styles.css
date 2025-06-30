@@ -10855,7 +10855,7 @@ html {
 }
 
 header.masthead {
-  background: none;
+  background: #1a1a1a;
   background-size: cover;
   min-height: 100vh;
   height: 100%;
