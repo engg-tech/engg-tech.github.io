@@ -10956,3 +10956,12 @@ a.social-icon:hover {
 }
 
 
+img {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+}
+body {
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+
