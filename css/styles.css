@@ -10964,4 +10964,7 @@ a.social-icon:hover {
   white-space: nowrap !important;
   border: 0 !important;
 }
-
+.checklist {
+  list-style: none;
+  padding-left: 0;
+}
