@@ -26,10 +26,16 @@
     }
   ],
   "screenshots": [],
-  "launch_handler": {},
-  "categories": ["utilities", "business", "home", "construction"],
-  "iarc_rating_id": "",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "categories": [
+    "construction",
+    "home",
+    "utilities"
+  ],
   "prefer_related_applications": false,
+  "iarc_rating_id": "",
   "related_applications": [],
   "scope_extensions": []
 }
