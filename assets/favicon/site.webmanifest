@@ -1,7 +1,7 @@
 {
   "name": "Engg-Tech Construction Pte. Ltd.",
   "short_name": "Engg-Tech",
-  "description": "Professional fire protection, M&E, electrical, plumbing, and renovation services in Singapore.",
+  "description": "Reliable fire protection, M&E, electrical, plumbing, and renovation services in Singapore.",
   "id": "/",
   "start_url": "/",
   "scope": "/",
@@ -25,17 +25,17 @@
       "purpose": "maskable"
     }
   ],
-  "screenshots": [],
   "launch_handler": {
     "client_mode": "auto"
   },
   "categories": [
     "construction",
-    "home",
-    "utilities"
+    "utilities",
+    "productivity"
   ],
+  "iarc_rating_id": "pending",
+  "screenshots": [],
   "prefer_related_applications": false,
-  "iarc_rating_id": "",
   "related_applications": [],
   "scope_extensions": []
 }
