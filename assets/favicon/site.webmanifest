@@ -25,5 +25,11 @@
       "purpose": "maskable"
     }
   ],
-  "prefer_related_applications": false
+  "screenshots": [],
+  "launch_handler": {},
+  "categories": ["utilities", "business", "home", "construction"],
+  "iarc_rating_id": "",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope_extensions": []
 }
