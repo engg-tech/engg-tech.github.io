@@ -1,41 +1,41 @@
 {
   "name": "Engg-Tech Construction Pte. Ltd.",
   "short_name": "Engg-Tech",
-  "description": "Reliable fire protection, M&E, electrical, plumbing, and renovation services in Singapore.",
-  "id": "/",
+  "description": "Engg-Tech Construction Pte. Ltd. provides fire protection, M&E, electrical, plumbing, and renovation services in Singapore.",
   "start_url": "/",
+  "id": "/",
   "scope": "/",
-  "lang": "en-SG",
-  "dir": "ltr",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#ffffff",
+  "lang": "en-SG",
   "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://engg-tech.com/assets/favicon/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "https://engg-tech.com/assets/favicon/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ],
   "launch_handler": {
-    "client_mode": "auto"
+    "client_mode": "navigate-existing"
   },
   "categories": [
-    "construction",
+    "business",
     "utilities",
     "productivity"
   ],
-  "iarc_rating_id": "pending",
-  "screenshots": [],
+  "dir": "ltr",
+  "iarc_rating_id": "",
   "prefer_related_applications": false,
   "related_applications": [],
-  "scope_extensions": []
+  "scope_extensions": [],
+  "screenshots": []
 }
