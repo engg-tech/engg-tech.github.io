@@ -25,6 +25,20 @@
       "purpose": "maskable"
     }
   ],
+  "screenshots": [
+    {
+      "src": "https://engg-tech.com/assets/screenshots/homepage-wide.jpeg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://engg-tech.com/assets/screenshots/homepage-mobile.jpeg",
+      "sizes": "360x640",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ],
   "launch_handler": {
     "client_mode": "auto"
   },
@@ -34,7 +48,6 @@
     "productivity"
   ],
   "iarc_rating_id": "pending",
-  "screenshots": [],
   "prefer_related_applications": false,
   "related_applications": [],
   "scope_extensions": []
